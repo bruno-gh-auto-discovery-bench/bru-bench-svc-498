@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ledger-e2e-5",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
